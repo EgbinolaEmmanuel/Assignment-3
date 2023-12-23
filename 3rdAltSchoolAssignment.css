@@ -1,0 +1,210 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: #F5F8FA;
+    ;
+  }
+
+
+.firsec{
+    display: flex;
+    margin-top: 40px;
+    margin-left: 330px;
+    padding-top: 10px;
+    
+}
+
+.sect1{
+    display: flex;
+}
+
+.space{
+   padding-right: 45px;
+}
+
+.first{
+    width: 42%;
+    max-width: 50%;
+    height: 40%;
+    padding-left: 30px;
+    padding-right: 10px;
+    background-color: blue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    background-color: white;
+    margin-left: 0px;
+    padding-bottom: 60px;
+}
+.second{
+     background-color:rgba(0, 0, 255, 0.774);
+     padding: 40px;
+     color: white;
+     padding-bottom: 26px;
+     /* font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;*/
+     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     font-weight: lighter; 
+     font-size: 12px;
+}
+
+.navig {
+    margin-top: 60px;
+    color: black;
+}
+
+
+.logo {
+    padding-right: 700px;
+    height: 60px;
+    margin-top: 30px;
+
+}
+
+hr {
+    border: 1.5px solid rgba(128, 128, 128, 0.507);
+}
+
+.name{
+ display: flex;
+ font-size: 15px;
+ margin-top: 60px;
+ margin-left: -20px;
+}
+
+.actuaLName {
+    margin-top: -25px;
+    margin-left: 10px;
+    position: relative;
+}
+
+.email {
+    display: flex;
+    font-size: 15px;
+    margin-top: 60px;
+    margin-left: -20px;
+}
+
+.actuaLemail {
+    margin-top: -25px;
+    margin-left: 10px;
+}
+
+.header{
+    margin-left: -12px;
+}
+
+.creditCard {
+    margin-top: -15px;
+    margin-left: 85px;
+    width: 300px;
+    height: 29px;
+    margin-bottom: -12px;
+
+}
+
+.pusher{
+   margin-top: 50px;
+   margin-left: 10px;
+   width: 470px;
+   height: 30px;
+   padding-top: 7px;
+   padding-bottom: 10px;
+   background-color: #038E7D;
+   font-weight: bold;
+   color: white;
+}
+
+.need, .hesitate{
+    margin-left: 80px;
+    display: inline-block;
+    font-size: 13px;
+    margin-left: 60px;
+    
+}
+
+.stripe{
+  width: 70px;  
+  height: 20px;
+  border-radius: 20px;
+  margin-left: 190px;
+}
+
+input{
+    background-color: rgba(128, 128, 128, 0.167);
+    border: 0px solid black;
+}
+
+.hesitate {
+    color: grey;
+    font-weight: lighter;
+}
+
+.wp{
+    margin-left: 650px;
+    color: grey;
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.Freelancer{
+    margin-top: -10px;
+    font-size: 15px;
+}
+
+.yearly {
+ margin-top: 9px;
+ margin-left: -1px;
+}
+
+.number{
+    display: inline;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+
+}
+
+.sign{
+    display: inline;
+    font-size: 20px;
+    
+}
+
+.space1{
+    padding-right: 45px;
+    margin-left: -28px;
+}
+
+.space2{
+    padding-right: 45px;
+    margin-left: -18px;
+}
+
+.move{
+    margin-left: 20px;
+}
+
+.space3{
+    padding-right: 45px;
+    margin-left: -28px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 30px;
+}
+
+.image{
+    display: inline;
+    width: 40px;
+    border-radius: 50%;
+    filter: grayscale(100%);
+    margin: -35px;
+}
+
+.kirk{
+    margin-left: 15px;
+}
+
+hr{
+    border: 0.5px solid rgba(128, 128, 128, 0.242);
+}
